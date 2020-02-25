@@ -1,0 +1,27 @@
+1. Navigate to amazon.com
+2. Search for iphone
+3. Find a product with highest and lowest vote number product names
+4. Print the product names
+
+
+1. Navigate to amazon.com
+2. Search for iphone
+3. Find a product with highest and lowest rating
+4. Print the product names
+
+
+1. Navigate to instagram/facebook
+2. Sign in/Sign up 
+3. Log in
+4. Like storie which is not the first one
+
+/
+
+1. Navigate to expedia.com
+2. Click on Flights tab
+3. Fill up the flight origin/destination cities/dates
+4. Click on Close button on calendar
+5. Add 6 Adult and 6 Children
+6. Verify the number of adults and children
+7. Click on Search button
+8. Verify the error message
